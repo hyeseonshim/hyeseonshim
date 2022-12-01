@@ -12,8 +12,6 @@
 <img src="https://img.shields.io/badge/vscode -333?style=flat-square&logo=visualstudiocode&logoColor=007ACC"/> <img src="https://img.shields.io/badge/git -333?style=flat-square&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/bitbucket -333?style=flat-square&logo=bitbucket&logoColor=0052CC"/> <img src="https://img.shields.io/badge/github -333?style=flat-square&logo=github&logoColor=#181717"/> <img src="https://img.shields.io/badge/jenkins -333?style=flat-square&logo=jenkins&logoColor=D24939"/> <img src="https://img.shields.io/badge/slack -333?style=flat-square&logo=slack&logoColor=4A154B"/> <img src="https://img.shields.io/badge/jira -333?style=flat-square&logo=jira&logoColor=0052CC"/> <img src="https://img.shields.io/badge/confluence -333?style=flat-square&logo=confluence&logoColor=fff"/>
 <br/><br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=merorii)](https://github.com/merorii/github-readme-stats)
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=200&section=footer)
 
 <!-- icon site
