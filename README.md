@@ -1,6 +1,5 @@
 ### Hi! I'm Hyeseon SHIM! 👋
-email : hyeseon319@gmail.com  
-tech-blog : https://velog.io/@merorii
+
 <br/>
 
 ⚙ **Stack**
