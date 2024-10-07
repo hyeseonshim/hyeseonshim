@@ -2,7 +2,6 @@
 Frontend Developer 👋
 
 ✉️ Mail : hyeseon319@gmail.com  
-🖥 Blog : [https://mesonia.tistory.com/](https://mesonia.tistory.com/)
 <br/><br/>  
 
 ---  
